@@ -1,8 +1,8 @@
 {
-  "displayName": "[cyan]Exogenesis",
-  "name": "exogenesis",
+  "displayName": "[cyan]Exogenesis json version",
+  "name": "exogenesis-json",
   "author": "[blue]AureusStratus",
-  "description": "A mod that adds in a butt load of content",
+  "description": "Old json version of the [cyan]exogenesis []mod",
   "minGameVersion": "137",
   "version": "[blue]1.9.1"
 }
