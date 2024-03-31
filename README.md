@@ -1,5 +1,7 @@
 # Exogenesis
 
+# this is the old json repo, this is to keep it from being deleted once the java version comes out.
+
 My discord AureusAltirius#6109
 
 the discord server https://discord.gg/RE9dNUzBVh
